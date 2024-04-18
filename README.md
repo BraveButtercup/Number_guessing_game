@@ -1,7 +1,7 @@
 Link to the game:  https://bravebuttercup.github.io/Number_guessing_game/
 
-    The computer generate a whole number between 1 and 100.
-    The user writes their guess into the input field. For each guess, the computer responds with one of the following:
+The computer generate a whole number between 1 and 100.
+The user writes their guess into the input field. For each guess, the computer responds with one of the following:
 
    - Your guess is lower!
    - Your guess is higher!
